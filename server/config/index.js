@@ -2,7 +2,7 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
-console.log(process.env)
+console.log('PROCES ENV', process.env)
 
 export default {
     databaseUrl:
