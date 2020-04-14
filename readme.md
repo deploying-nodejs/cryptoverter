@@ -1,10 +1,9 @@
-# Full stack MEVN Mongo
+# Cryptoverter
 
 ## Getting started
-
 To get the project running locally, 
 
-- Clone this repository by running `git clone https://github.com/deploying-nodejs/fullstack-mevn-mongo.git`
+- Clone this repository by running `git clone https://github.com/deploying-nodejs/cryptoverter.git`
 - Run `yarn` to install all project dependencies.
 - Run `yarn dev` to start the development server
 

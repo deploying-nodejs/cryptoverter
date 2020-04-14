@@ -1,5 +1,5 @@
 {
-  "name": "deploying-node-js-book-project",
+  "name": "cryptoverter",
   "version": "1.0.0",
   "description": "A full stack node.js application for the deploying node-js book",
   "main": "index.js",
