@@ -2,8 +2,6 @@ import dotenv from 'dotenv'
 
 dotenv.config()
 
-console.log('PROCES ENV', process.env)
-
 export default {
     databaseUrl:
         process.env.DATABASE_URL || 'mongodb://localhost:27017/cryptoverter',
